@@ -1,0 +1,15 @@
+E:\ETSU\CSCI1250\Lab6\Homework6\bin\Debug\net6.0\Homework6.exe
+E:\ETSU\CSCI1250\Lab6\Homework6\bin\Debug\net6.0\Homework6.deps.json
+E:\ETSU\CSCI1250\Lab6\Homework6\bin\Debug\net6.0\Homework6.runtimeconfig.json
+E:\ETSU\CSCI1250\Lab6\Homework6\bin\Debug\net6.0\Homework6.dll
+E:\ETSU\CSCI1250\Lab6\Homework6\bin\Debug\net6.0\Homework6.pdb
+E:\ETSU\CSCI1250\Lab6\Homework6\obj\Debug\net6.0\Homework6.csproj.AssemblyReference.cache
+E:\ETSU\CSCI1250\Lab6\Homework6\obj\Debug\net6.0\Homework6.GeneratedMSBuildEditorConfig.editorconfig
+E:\ETSU\CSCI1250\Lab6\Homework6\obj\Debug\net6.0\Homework6.AssemblyInfoInputs.cache
+E:\ETSU\CSCI1250\Lab6\Homework6\obj\Debug\net6.0\Homework6.AssemblyInfo.cs
+E:\ETSU\CSCI1250\Lab6\Homework6\obj\Debug\net6.0\Homework6.csproj.CoreCompileInputs.cache
+E:\ETSU\CSCI1250\Lab6\Homework6\obj\Debug\net6.0\Homework6.dll
+E:\ETSU\CSCI1250\Lab6\Homework6\obj\Debug\net6.0\refint\Homework6.dll
+E:\ETSU\CSCI1250\Lab6\Homework6\obj\Debug\net6.0\Homework6.pdb
+E:\ETSU\CSCI1250\Lab6\Homework6\obj\Debug\net6.0\Homework6.genruntimeconfig.cache
+E:\ETSU\CSCI1250\Lab6\Homework6\obj\Debug\net6.0\ref\Homework6.dll
